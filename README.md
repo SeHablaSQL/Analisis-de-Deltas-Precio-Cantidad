@@ -1,4 +1,4 @@
-## Análisis de Deltas Precio-Cantidad
+## Análisis de Deltas Precio/Cantidad
 
 You can use the [editor on GitHub](https://github.com/SeHablaSQL/Deltas-Precio-Cantidad/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
